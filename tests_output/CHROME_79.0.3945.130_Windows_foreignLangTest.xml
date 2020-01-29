@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="foreignLangTest"
+    errors="0" failures="0" hostname="" id="" package="foreignLangTest" skipped="0"
+    tests="1" time="35.70" timestamp="">
+  
+    <testcase name="Language Links Functionality Test" classname="foreignLangTest" time="35.70" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
